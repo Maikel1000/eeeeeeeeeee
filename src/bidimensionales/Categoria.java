@@ -9,6 +9,6 @@ package bidimensionales;
  * @author maike
  */
 class Categoria {
-    record v
+    record v ijiwebgiowebniofwnjeoifnpwm
             
 }
